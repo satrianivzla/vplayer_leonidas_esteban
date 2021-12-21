@@ -2,4 +2,4 @@
 
 # Video Player Leonidas Esteban
 
-- Video Player basico con jQuery y CSS realizado durante el curso gratuito de programacion que ofrece **[Leonidas Esteban](https://leonidasesteban.com/ "Curso de Leonidas Esteban")**
+- Video Player realizado con HTML, CSS y JavaScript para optar al titulo del curso básico de programación que ofrece **[Leonidas Esteban](https://leonidasesteban.com/ "Curso de Leonidas Esteban")**
